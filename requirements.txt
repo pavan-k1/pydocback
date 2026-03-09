@@ -1,3 +1,4 @@
+python-3.9.18
 # Install: pip install Flask==3.0.0
 Flask==3.0.0
 
@@ -13,7 +14,8 @@ Werkzeug==3.0.1
 # Install: pip install google-generativeai==0.5.4
 google-generativeai==0.5.4
 
-
+# Install: pip install docformatter==1.7.5
+docformatter==1.7.5
 
 # Install: pip install pydocstyle==6.3.0
 pydocstyle==6.3.0
@@ -21,13 +23,3 @@ pydocstyle==6.3.0
 # (Optional) If using .env file
 # Install: pip install python-dotenv==1.0.1
 python-dotenv==1.0.1
-
-
-
-Flask==3.0.0
-flask-cors==4.0.0
-Flask-Bcrypt==1.0.1
-Werkzeug==3.0.1
-google-generativeai==0.5.4
-python-dotenv==1.0.1
-gunicorn==21.2.0
